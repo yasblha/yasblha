@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **INETUM SOFTWARE**
 
-- 🌱 I’m currently learning **java spring boot**
+- 🌱 I’m currently learning **Nest JS**
 
 - 💬 Ask me about **Typescript - Javascript**
 
