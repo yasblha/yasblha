@@ -8,7 +8,7 @@
 
 ## 🔧 Full Stack Developer | Backend-oriented | Dev Clean Code Lover
 
-💼 Ingénieur R&D chez **Inetum Software**, je conçois des solutions logicielles robustes dans le secteur public (facturation, workflows, progiciels). Mon cœur de métier est backend, avec une forte expertise en **NestJS**, **Node.js** et **Clean Architecture**.
+💼 Ingénieur R&D chez **Inetum Software**, je travaille sur des solutions logicielles robustes dans le secteur public (facturation, progiciels). Mon cœur de métier est backend, avec une forte expertise en **NestJS**, **Node.js** et **Clean Architecture**. et une bonne expérience en frontend **ReactJS** , **VUEJS** , **NEXTJS**
 
 📍 Basé en Île-de-France | 📅 Disponible pour un **CDI dès septembre 2025**
 
