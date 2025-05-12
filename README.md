@@ -55,4 +55,4 @@
 
 ## 📊 GitHub Stats
 
-[![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineBoul&show_icons=true&theme=radical)](https://github.com/YassineBoul)
+[![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasblha&show_icons=true&theme=radical)](https://github.com/YassineBoul)
