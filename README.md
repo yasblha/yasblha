@@ -6,10 +6,11 @@
 
 ### 👋 Hello, I'm Yassine Boulahnine
 
-## 🔧 Ingénieur R&D Full Stack | Backend-first | Passionné d’architecture logicielle
+💼 Je suis ingénieur R&D chez Inetum Software, où je conçois et développe des applications métiers complexes pour le secteur public.
+🎯 Mon terrain de jeu préféré : le backend, avec une vraie maîtrise de Node.js, NestJS, Java Spring Boot, et une passion pour les architectures propres (Clean Architecture, CI/CD, TDD).
 
-💼 Actuellement ingénieur R&D chez **Inetum Software**, je développe et fais évoluer des progiciels métiers dans le secteur public. Mon cœur de métier est le **backend**, avec une forte expertise en **Node.js**, **NestJS**, **Clean Architecture** et **Java Spring Boot**.  
-J’ai également une bonne maîtrise du frontend avec **React.js**, **Vue.js** et **Next.js**.
+🧩 Côté frontend, je suis à l’aise avec React.js, Vue.js et Next.js, ce qui me permet d’intervenir efficacement sur toute la stack quand le projet l'exige.
+
 
 📍 Basé en Île-de-France | 📅 Disponible pour un **CDI dès septembre 2025**
 
