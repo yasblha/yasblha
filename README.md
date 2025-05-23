@@ -27,12 +27,11 @@ J’ai également une bonne maîtrise du frontend avec **React.js**, **Vue.js** 
 
 ## 📬 Me contacter
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" align="left" height="22px">][linkedin]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" align="left" height="22px">][github]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" align="left" height="22px">][mail]
-<br />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github]  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 
----
+--
 
 ## 🛠️ Compétences techniques
 
