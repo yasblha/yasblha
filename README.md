@@ -6,20 +6,22 @@
 
 ### 👋 Hello, I'm Yassine Boulahnine
 
-## 🔧 Full Stack Developer | Backend-oriented | Dev Clean Code Lover
+## 🔧 Ingénieur R&D Full Stack | Backend-first | Passionné d’architecture logicielle
 
-💼 Ingénieur R&D chez **Inetum Software**, je travaille sur des solutions logicielles robustes dans le secteur public (facturation, progiciels). Mon cœur de métier est backend, avec une forte expertise en **NestJS**, **Node.js** et **Clean Architecture**. et une bonne expérience en frontend **ReactJS** , **VUEJS** , **NEXTJS**
+💼 Actuellement ingénieur R&D chez **Inetum Software**, je développe et fais évoluer des progiciels métiers dans le secteur public. Mon cœur de métier est le **backend**, avec une forte expertise en **Node.js**, **NestJS**, **Clean Architecture** et **Java Spring Boot**.  
+J’ai également une bonne maîtrise du frontend avec **React.js**, **Vue.js** et **Next.js**.
 
 📍 Basé en Île-de-France | 📅 Disponible pour un **CDI dès septembre 2025**
 
 ---
 
 ## 💡 À propos de moi
-- 🔭 Je travaille sur un **progiciel de gestion de l’eau** (Node.js + Oracle + jQuery)
-- 🚧 Je développe aussi un **outil de facturation microservices** en NestJS/Vue.js
-- 🧠 Toujours curieux, je renforce mes compétences sur **Java Spring Boot** et **Angular**
-- 📦 J’adore structurer mes projets avec **TDD**, **CI/CD**, **DDD** et **RabbitMQ**
-- ⚡ Fun fact: Je teste mes idées perso dans des projets Dockerisés dès le 1er jour !
+- 💧 Développement d’un **progiciel de gestion de l’eau** (Node.js + Oracle + jQuery)
+- 📦 Création d’un **outil de facturation microservices** (NestJS, Vue.js, RabbitMQ)
+- ☕ Montée en compétence continue sur **Java Spring Boot** et **Angular**
+- ⚙️ Fan de **Clean Code**, **CI/CD**, **TDD**, **DDD**
+- 🧪 Tests automatisés (Cypress, WebdriverIO, Selenium)
+- 🐳 Tous mes projets perso sont directement **dockerisés**
 
 ---
 
@@ -39,7 +41,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash)
@@ -53,13 +54,13 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
 
-### 🧱 Base de données
+### 🧱 Bases de données
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
 
-### 🚀 DevOps & Tools
+### 🚀 DevOps & Outils
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab)
