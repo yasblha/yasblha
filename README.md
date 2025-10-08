@@ -6,7 +6,7 @@
 
 ### 👋 Hello, I'm Yassine Boulahnine
 
-💼 Je suis ingénieur R&D chez Inetum Software, où je conçois et développe des applications métiers complexes pour le secteur public.
+💼 Je suis ingénieur R&D chez AttijariWafaBank.
 🎯 Mon terrain de jeu préféré : le backend, en utilisant du Node.js, NestJS, Java Spring Boot, et une passion pour les architectures propres (Clean Architecture, CI/CD, TDD).
 
 🧩 Côté frontend, je suis à l’aise avec React.js, Vue.js et Next.js, ce qui me permet d’intervenir efficacement sur toute la stack quand le projet l'exige.
