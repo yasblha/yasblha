@@ -12,7 +12,7 @@
 🧩 Côté frontend, je suis à l’aise avec React.js, Vue.js et Next.js, ce qui me permet d’intervenir efficacement sur toute la stack quand le projet l'exige.
 
 
-📍 Basé en Île-de-France | 📅 Disponible pour un **CDI **
+📍 Basé en Île-de-France | 📅 Disponible 
 
 ---
 
