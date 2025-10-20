@@ -17,7 +17,7 @@
 ---
 
 ## 💡 À propos de moi
-- 💧 Développement d’un **progiciel de gestion de l’eau** (Node.js + Oracle + jQuery)
+- 💧 Développement d’un **progiciel de gestion de l’eau** (Node.js + Oracle + Nextjs)
 - 📦 Création d’un **outil de facturation microservices** (NestJS, Vue.js, RabbitMQ)
 - ☕ Montée en compétence continue sur **Java Spring Boot** et **Angular**
 - ⚙️ Fan de **Clean Code**, **CI/CD**, **TDD**, **DDD**
