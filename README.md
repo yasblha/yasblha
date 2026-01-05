@@ -15,7 +15,7 @@ Je développe des **APIs** et des **applications web** robustes, avec une approc
 - **Front React** : interfaces, dashboards, intégration API, UX propre
 - **Industrialisation** : Docker, CI/CD, tests automatisés
 
-> Expérience pro significative aussi en **Node.js / Express** (et **NestJS** selon besoin), sans être mon axe principal de recherche.
+> Expérience pro significative aussi en **Node.js / Express** (et **NestJS** selon besoin).
 
 ---
 
