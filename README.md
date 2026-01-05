@@ -6,41 +6,74 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Yassine%20Boulahnine&fontAlignY=35&desc=Full-Stack%20Java%20(Spring%20Boot)%20%7C%20React&descAlignY=55" />
 
-# 👋 Yassine Boulahnine — Full-Stack Java (Spring Boot) | React
 
-🚀 **Disponible pour mission freelance** (Île-de-France · remote/hybride) — **ouvert au CDI** selon projet.
+<h1 align="center">Hey 👋 I'm Yassine Boulahnine</h1>
 
-Je développe des **APIs** et des **applications web** robustes, avec une approche orientée **qualité** (tests, clean code, CI/CD) et des contraintes **prod** (fiabilité, performance, maintenabilité).
+<p align="center">
+  Full-Stack <b>Java (Spring Boot)</b> · <b>React</b> · APIs · SQL · Docker<br/>
+  🚀 <b>Disponible freelance</b> (Île-de-France · remote/hybride) — ouvert au CDI selon projet
+</p>
 
-✅ Ce que je peux apporter rapidement sur une mission :
-- **Backend Java / Spring Boot** : API REST, microservices, intégration SI, sécurité (JWT/OAuth), perf & SQL
-- **Front React** : interfaces, dashboards, intégration API, UX propre
-- **Industrialisation** : Docker, CI/CD, tests automatisés
+---
 
-> Expérience pro significative aussi en **Node.js / Express** (et **NestJS** selon besoin).
+## 🧰 Stack (focus mission)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=spring" height="55" alt="spring" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgres" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git" />
+</div>
+
+<p align="center">
+  <i>Expérience pro aussi sur Node.js/Express (et NestJS selon besoin).</i>
+</p>
 
 ---
 
 ## 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github]
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][mail]
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yassine-boulahnine-141491133/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="mailto:yassineboul0490@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  <a href="https://github.com/yasblha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  </a>
+</p>
 
 ---
 
 ## 📈 Stats (sans GitHub Actions)
 
-> Si tu ne vois pas les cards ici, c’est presque toujours un blocage navigateur/réseau.
-> Dans tous les cas, les titres sont cliquables.
+<p align="center">
+  <!-- Streak -->
+  <a href="https://github.com/yasblha">
+    <img src="https://streak-stats.demolab.com?user=yasblha&locale=en&mode=daily&hide_border=false&border_radius=6" height="150" alt="streak" />
+  </a>
 
-### 🔥 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasblha&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=21600&v=1)](https://github.com/yasblha)
+  <!-- Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yasblha&column=6&row=1&margin-w=8&margin-h=8&no-frame=true&no-bg=true" height="150" alt="trophy" />
+  </a>
+</p>
 
-### 🧠 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasblha&layout=compact&langs_count=8&cache_seconds=21600&v=1)](https://github.com/yasblha)
+<p align="center">
+  <a href="https://github.com/yasblha">
+    <img src="https://komarev.com/ghpvc/?username=yasblha&label=Profile%20views&style=flat" alt="profile views" />
+  </a>
+</p>
 
-### 🏆 Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yasblha&no-frame=true&no-bg=true&column=6&margin-w=8&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 👀 Profile views
-[![Profile views](https://komarev.com/ghpvc/?username=yasblha&label=Profile%20views&style=flat)](https://github.com/yasblha)
+
+---
