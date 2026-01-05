@@ -21,18 +21,6 @@ Je développe des **APIs** et des **applications web** robustes, avec une approc
 
 ---
 
-## 🧰 Stack principale (orientée mission)
-**Java · Spring Boot · React · SQL (Oracle/PostgreSQL) · Docker · CI/CD · Git · VueJS**
-
----
-
-## 🧩 Projets & sujets sur lesquels j’interviens
-- 💧 Progiciel de gestion (contexte SI, SQL, contraintes métier)
-- 📦 Facturation / devis / workflow (architecture modulaire, intégration, qualité)
-- ⚙️ Architecture : Clean Architecture, DDD (pragmatique), CI/CD, TDD/Tests
-
----
-
 ## 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github]
@@ -40,20 +28,19 @@ Je développe des **APIs** et des **applications web** robustes, avec une approc
 
 ---
 
-## 📈 Stats
-> Les fichiers ci-dessous sont **générés automatiquement par GitHub Actions** (workflow `metrics.yml` + `snake.yml`)
-> et committés dans le dossier `assets/` pour éviter les problèmes de services externes.
+## 📈 Stats (sans GitHub Actions)
 
-### 📊 GitHub Metrics
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics.svg" />
-  <img alt="GitHub Metrics" src="./assets/metrics.svg" />
-</picture>
+> Si tu ne vois pas les cards ici, c’est presque toujours un blocage navigateur/réseau.
+> Dans tous les cas, les titres sont cliquables.
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
+### 🔥 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasblha&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=21600&v=1)](https://github.com/yasblha)
+
+### 🧠 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasblha&layout=compact&langs_count=8&cache_seconds=21600&v=1)](https://github.com/yasblha)
+
+### 🏆 Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=yasblha&no-frame=true&no-bg=true&column=6&margin-w=8&v=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 👀 Profile views
+[![Profile views](https://komarev.com/ghpvc/?username=yasblha&label=Profile%20views&style=flat)](https://github.com/yasblha)
